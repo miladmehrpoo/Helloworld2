@@ -1,0 +1,209 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/master.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Bar/Bar.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bar.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bar/Bar.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bar~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bar.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Command/Argument.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Argument.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command/Argument.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Argument~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Argument.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Command/Command+Print.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command+Print.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command/Command+Print.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command+Print~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command+Print.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Command/Command.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command/Command.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Command/Group.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Group.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command/Group.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Group~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Group.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Command/Option.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Option.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command/Option.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Option~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Option.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Command/Runnable.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Runnable.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command/Runnable.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Runnable~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Runnable.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Command/Value.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Value.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Command/Value.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Value~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Value.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Console+Ask.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Ask.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Console+Ask.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Ask~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Ask.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Console+Center.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Center.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Console+Center.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Center~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Center.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Console+Confirm.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Confirm.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Console+Confirm.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Confirm~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Confirm.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Console+Options.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Options.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Console+Options.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Options.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Console+Print.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Print.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Console+Print.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Print~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Print.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Console+Run.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Run.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Console+Run.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Run~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+Run.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Console.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Console.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/ConsoleError.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleError.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/ConsoleError.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleError~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleError.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Stream/FileHandle+Stream.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/FileHandle+Stream.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Stream/FileHandle+Stream.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/FileHandle+Stream~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/FileHandle+Stream.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Stream/Pipe+Stream.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Pipe+Stream.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Stream/Pipe+Stream.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Pipe+Stream~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Pipe+Stream.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Stream/Stream.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Stream.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Stream/Stream.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Stream~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Stream.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Terminal/ConsoleColor+Terminal.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleColor+Terminal.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal/ConsoleColor+Terminal.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleColor+Terminal~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleColor+Terminal.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Terminal/ConsoleStyle+Terminal.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleStyle+Terminal.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal/ConsoleStyle+Terminal.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleStyle+Terminal~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleStyle+Terminal.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Terminal/String+ANSI.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/String+ANSI.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal/String+ANSI.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/String+ANSI~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/String+ANSI.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Terminal/Terminal+Command.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal+Command.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal/Terminal+Command.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal+Command~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal+Command.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Terminal/Terminal.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal/Terminal.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Terminal.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Utilities/Bool+Polymorphic.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bool+Polymorphic.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Utilities/Bool+Polymorphic.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bool+Polymorphic~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bool+Polymorphic.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Utilities/String+Trim.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/String+Trim.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Utilities/String+Trim.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/String+Trim~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/String+Trim.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Bar/Loading/Console+LoadingBar.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+LoadingBar.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bar/Loading/Console+LoadingBar.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+LoadingBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+LoadingBar.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Bar/Loading/LoadingBar.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/LoadingBar.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bar/Loading/LoadingBar.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/LoadingBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/LoadingBar.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Bar/Progress/Console+ProgressBar.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+ProgressBar.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bar/Progress/Console+ProgressBar.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+ProgressBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+ProgressBar.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Bar/Progress/ProgressBar.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ProgressBar.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Bar/Progress/ProgressBar.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ProgressBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ProgressBar.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Clear/ConsoleClear.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleClear.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Clear/ConsoleClear.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleClear~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleClear.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Color/ConsoleColor.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleColor.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Color/ConsoleColor.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleColor.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Style/Console+ConsoleStyle.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+ConsoleStyle.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Style/Console+ConsoleStyle.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+ConsoleStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console+ConsoleStyle.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Console-1.0.0/Sources/Console/Console/Style/ConsoleStyle.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleStyle.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/Console/Style/ConsoleStyle.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Console.build/ConsoleStyle.swiftdeps"
+  }
+}

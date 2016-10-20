@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "0ff91100c6e5a675e822bd8b29be4192"
+build_time: [530295089, 920055000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/Transport/Streams/FoundationStream.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/Transport/Streams/Socks+Stream.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/Transport/Streams/Stream.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/Transport/Streams/StreamBuffer.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/Transport/TransferProtocols/TransferProtocols.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/Transport/Streams/ProgramStream/ClientStream.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/Transport/Streams/ProgramStream/ProgramStream.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/Transport/Streams/ProgramStream/ServerStream.swift": [530294914, 0]

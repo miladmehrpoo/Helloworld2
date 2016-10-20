@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "b4bfcc57153def666e30ffb289391fdf"
+build_time: [530295079, 110009000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/AuthorizationCode.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Facebook.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Google.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Error.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Token.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/URLSession+Turnstile.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/WebMemoryRealm.swift": [530294941, 0]

@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "5d72e4957739a759e9cf356a79c7911a"
+build_time: [530295119, 946034000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookie+BytesConvertible.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookie+Parse.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookie+Serialize.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookie.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookies+BytesConvertible.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookies+Literal.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookies+Parse.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookies+Serialize.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Cookies.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Request+Cookies.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cookies/Response+Cookies.swift": [530294852, 0]

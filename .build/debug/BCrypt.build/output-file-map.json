@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/BCrypt.build/master.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/BCrypt/BCrypt.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/BCrypt.build/BCrypt.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/BCrypt.build/BCrypt.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/BCrypt.build/BCrypt~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/BCrypt.build/BCrypt.swiftdeps"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/master.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/HTTPRouting/Request+Routing.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Request+Routing.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Request+Routing.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Request+Routing~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Request+Routing.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/HTTPRouting/RouteBuilder+HTTP.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/RouteBuilder+HTTP.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/RouteBuilder+HTTP.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/RouteBuilder+HTTP~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/RouteBuilder+HTTP.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/HTTPRouting/Router+HTTP.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Router+HTTP.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Router+HTTP.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Router+HTTP~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Router+HTTP.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/HTTPRouting/Routing+HTTP.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Routing+HTTP.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Routing+HTTP.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Routing+HTTP~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Routing+HTTP.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/HTTPRouting/Utilities.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Utilities.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Utilities.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/HTTPRouting.build/Utilities.swiftdeps"
+  }
+}

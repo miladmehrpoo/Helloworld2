@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "c378cd8f14cde3343d866be911af7980"
+build_time: [530295021, 226689000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/Socks/Socks.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/Socks/SynchronousTCPServer.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/Socks/SynchronousUDPServer.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/Socks/TCPClient.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/Socks/UDPClient.swift": [530294928, 0]

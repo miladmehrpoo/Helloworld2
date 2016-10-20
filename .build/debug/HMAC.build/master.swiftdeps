@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "e44c7ec537851d93632cc3822e5a4493"
+build_time: [530295081, 652479000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/HMAC/HMAC.swift": [530294866, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/HMAC/Method.swift": [530294866, 0]

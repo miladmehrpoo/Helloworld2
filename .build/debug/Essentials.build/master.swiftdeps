@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "d33cfa4cb30d6b0a79b752ea7afcb067"
+build_time: [530295061, 729934000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": [530294866, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": [530294866, 0]

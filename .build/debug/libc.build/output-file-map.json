@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/libc.build/master.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Core-1.0.0/Sources/libc/libc.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/libc.build/libc.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/libc.build/libc.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/libc.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/libc.build/libc.swiftdeps"
+  }
+}

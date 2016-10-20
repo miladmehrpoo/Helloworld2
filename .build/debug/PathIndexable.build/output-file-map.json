@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/master.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable+Subscripting.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/PathIndexable+Subscripting.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/PathIndexable+Subscripting.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/PathIndexable+Subscripting~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/PathIndexable+Subscripting.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/PathIndexable.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/PathIndexable.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/PathIndexable~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/PathIndexable.build/PathIndexable.swiftdeps"
+  }
+}

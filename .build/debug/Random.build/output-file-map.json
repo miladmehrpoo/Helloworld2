@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/master.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/CryptoRandom.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/CryptoRandom.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/CryptoRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/CryptoRandom.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Random/Random.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/Random.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/Random.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/Random.swiftdeps"
+  },
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": {
+    "dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/URandom.d",
+    "object": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/URandom.swift.o",
+    "swiftmodule": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/miladmehrpoo/Desktop/Helloworld/.build/debug/Random.build/URandom.swiftdeps"
+  }
+}

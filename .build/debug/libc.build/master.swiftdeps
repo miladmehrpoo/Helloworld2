@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a976c8344bd1790ec74a55f0380d1b94"
+build_time: [530295009, 694842000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Core-1.0.0/Sources/libc/libc.swift": [530294869, 0]

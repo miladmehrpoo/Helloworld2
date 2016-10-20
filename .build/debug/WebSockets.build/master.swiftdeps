@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "e42ea66e46a77a4003f9ebefebb70006"
+build_time: [530295113, 482104000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Request+WebSockets.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/WebSocketFormatErrors.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Client/WebSocket+Client.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Communication/WebSocket+ControlFrames.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Communication/WebSocket+Send.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Connection/Headers+WebSockets.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Connection/WebSockets+Hash.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Model/Fragmentation.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Model/Frame.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Model/WebSocket+Error.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Model/WebSocket.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Serialization/FrameDeserializer.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Serialization/FrameSerializer.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/WebSockets/Serialization/WebSockets+Flags.swift": [530294914, 0]

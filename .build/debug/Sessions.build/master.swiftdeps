@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "bec90b9d8b90094a2e7349071e570d56"
+build_time: [530295130, 653593000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Sessions/CacheSessions.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Sessions/MemorySessions.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Sessions/Request+Session.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Sessions/Session.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Sessions/SessionsMiddleware.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Sessions/SessionsProtocol.swift": [530294852, 0]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "c5e66941af01577de06cecf0cc173500"
+build_time: [530295140, 822678000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/TypeSafeRouting/Generated.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/TypeSafeRouting/StringInitializable.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [530294852, 0]

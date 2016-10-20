@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "7401ad9efda867eab05adf6387c296c1"
+build_time: [530295119, 942431000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/Config+Arguments.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/Config+Directory.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/Config.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/KeyAccessible+Merge.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/KeyAccessible.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/Node+Merge.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/Source.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/Env/Env.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/Env/Node+Env.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Settings/Env/String+Env.swift": [530294852, 0]

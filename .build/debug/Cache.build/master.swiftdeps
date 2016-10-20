@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "3019adbe35fe2d44c19fdde594d9baf5"
+build_time: [530295119, 939964000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cache/CacheProtocol.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cache/FluentCache.swift": [530294852, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Vapor-1.1.1/Sources/Cache/MemoryCache.swift": [530294852, 0]

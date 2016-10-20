@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "838e595b4df531eb328da33e97b3d4a6"
+build_time: [530295009, 734345000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/BCrypt.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/Random.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/URandom.swift": [530294939, 0]

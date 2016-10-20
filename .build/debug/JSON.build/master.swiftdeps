@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "6cd92e9cef23e2849a947bc656ffb1c3"
+build_time: [530295053, 87139000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/JSON-1.0.1/Sources/JSON/JSON+Bytes.swift": [530294933, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/JSON-1.0.1/Sources/JSON/JSON+Equatable.swift": [530294933, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/JSON-1.0.1/Sources/JSON/JSON+Node.swift": [530294933, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/JSON-1.0.1/Sources/JSON/JSON+Parse.swift": [530294933, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/JSON-1.0.1/Sources/JSON/JSON+Serialize.swift": [530294933, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/JSON-1.0.1/Sources/JSON/JSON.swift": [530294933, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/JSON-1.0.1/Sources/JSON/JSONRepresentable.swift": [530294933, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/JSON-1.0.1/Sources/JSON/Sequence+Convertible.swift": [530294933, 0]

@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "6066c835992f838066feadeae8dd84e2"
+build_time: [530295012, 56125000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Address+C.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Address.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Bytes.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Conversions.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Error.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/FDSet.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/InternetSocket.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Pipe.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Select.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Socket.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/SocketOptions.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/TCPSocket.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/Types.swift": [530294928, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Socks-1.0.1/Sources/SocksCore/UDPSocket.swift": [530294928, 0]

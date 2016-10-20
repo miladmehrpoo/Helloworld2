@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "4d383b7ebfda39faf4b87380dfc13f79"
+build_time: [530295078, 323840000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Cipher/Cipher.swift": [530294866, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Cipher/Method.swift": [530294866, 0]

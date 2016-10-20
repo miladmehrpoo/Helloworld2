@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "82d12a27ba6ef8d652a0e0025899f638"
+build_time: [530295076, 579289000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": [530294866, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Random/Random.swift": [530294866, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": [530294866, 0]

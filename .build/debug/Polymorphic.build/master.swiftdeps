@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "5a5ed1a6d95677a87035c15c6f57ad90"
+build_time: [530295009, 696016000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Polymorphic-1.0.0/Sources/Polymorphic.swift": [530294911, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Polymorphic-1.0.0/Sources/String+Polymorphic.swift": [530294911, 0]

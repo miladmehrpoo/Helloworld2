@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "46a3c5960183dd45715304ef1a749e0c"
+build_time: [530295059, 803528000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/TLS-1.0.2/Sources/TLS/Certificates.swift": [530294926, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/TLS-1.0.2/Sources/TLS/Config.swift": [530294926, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/TLS-1.0.2/Sources/TLS/Context.swift": [530294926, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/TLS-1.0.2/Sources/TLS/Error.swift": [530294926, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/TLS-1.0.2/Sources/TLS/Mode.swift": [530294926, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/TLS-1.0.2/Sources/TLS/Socket.swift": [530294926, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/TLS-1.0.2/Sources/TLS/Utilities.swift": [530294926, 0]

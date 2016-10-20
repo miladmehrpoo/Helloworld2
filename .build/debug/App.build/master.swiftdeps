@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "62a08b688eb4b9928f48c781f022abf6"
+build_time: [530295173, 697683000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Sources/App/main.swift": [530294817, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Sources/App/Controllers/PostController.swift": [530294817, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Sources/App/Models/Post.swift": [530294817, 0]

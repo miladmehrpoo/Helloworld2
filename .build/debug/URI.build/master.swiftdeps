@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "9ce1357900eb99697cf989e2aa4ec718"
+build_time: [530295089, 921104000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/PercentDecoding.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Model/URI+Byte.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Model/URI+Modification.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Model/URI+Ports.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Model/URI+String.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Model/URI.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Parser/Parser+Components.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Parser/Parser+Public.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Parser/Parser+SubComponents.swift": [530294914, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Engine-1.0.3/Sources/URI/Parser/Parser.swift": [530294914, 0]

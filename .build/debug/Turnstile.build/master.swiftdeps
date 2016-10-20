@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "68b00df50ebb855b782c28fa247ff69b"
+build_time: [530295068, 115815000]
+inputs:
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/TurnstileError.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Subject.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Turnstile.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/APIKey.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Credentials.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/CredentialsError.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Token.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/UsernamePassword.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Account.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/MemoryRealm.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Realm.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [530294939, 0]
+  "/Users/miladmehrpoo/Desktop/Helloworld/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/SessionManager.swift": [530294939, 0]
